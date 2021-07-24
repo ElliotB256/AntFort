@@ -23,6 +23,7 @@ _V1 is pictured._
 * **Size:** Module size should be an integer multiple of 80mm. For example, the smallest module is 80x80mm.
 * **Fasteners:** Layers are held together by M5 nuts and bolts. The holes are 5mm diameter. The hole centres are located 7.5mm from the edge, with a horizontal/vertical separation between holes of 65mm.
 * **Ventilation:** Grids of 0.5mm diameter holes.
+* **Adjustment tabs**, e.g. for sliding doors. Protrusion should stand 5mm clear of the clear acrylic layer.
 
 ### Connector specifications
 
